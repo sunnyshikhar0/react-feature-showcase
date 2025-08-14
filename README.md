@@ -175,9 +175,6 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## **Contact**
-
-For any questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com
 - **GitHub**: [Sunny Shikhar](https://github.com/sunnyshikhar0)
 
 ---
